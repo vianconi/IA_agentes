@@ -1,0 +1,180 @@
+╭───────────────────────────────────────────────────────────────── Crew Execution Started ──────────────────────────────────────────────────────────────────╮
+│                                                                                                                                                           │
+│  Crew Execution Started                                                                                                                                   │
+│  Name: crew                                                                                                                                               │
+│  ID: ae8003a5-b2cd-46dc-bb1b-a2cba86d0e29                                                                                                                 │
+│                                                                                                                                                           │
+│                                                                                                                                                           │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+# Agent: Profesor de Inglés
+## Task: Explica la diferencia entre los tiempos verbales 'Present Perfect' y 'Past Simple' con ejemplos.
+
+
+# Agent: Profesor de Inglés
+## Final Answer: 
+Okay, let's break down the difference between the Present Perfect and Past Simple tenses.
+
+**Past Simple**
+
+*   **Use:** The Past Simple is used for completed actions or states that happened at a specific time in the past. This specific time can be stated or 
+understood. The action is finished and has no direct connection to the present.
+*   **Time Frame:** The time frame is finished and in the past. We often use specific time expressions with the Past Simple.
+*   **Keywords:** *yesterday, last week, last year, ago, in 2005, when I was a child, just now.*
+*   **Form:** The Past Simple form of regular verbs is created by adding '-ed' to the base form of the verb (e.g., *walked, played, watched*). Irregular 
+verbs have their own unique past simple forms (e.g., *go -> went, see -> saw, eat -> ate*).
+*   **Examples:**
+
+    *   "I **went** to the cinema *yesterday*." (The action of going to the cinema is finished, and we know when it happened.)
+    *   "She **lived** in Paris *for five years*." (She doesn't live there anymore; the period of living in Paris is over.)
+    *   "They **visited** Rome *last summer*." (The trip to Rome happened and finished last summer.)
+    *   "He **finished** his homework *an hour ago*." (The homework is done and complete.)
+    *   "I **saw** a great film *last night*." (The action of seeing the film is completed, the time is specific.)
+
+**Present Perfect**
+
+*   **Use:** The Present Perfect is used for actions or states that started in the past and have a connection or relevance to the present. It can also be 
+used for experiences in someone's life, without specifying when they happened. The focus is on the result or consequence in the present, rather than the 
+specific time of the action.
+*   **Time Frame:** The time frame is not finished. The action might have happened at an unspecified time in the past, or it might be ongoing.
+*   **Keywords:** *ever, never, just, already, yet, since, for, so far, up to now, recently, lately.*
+*   **Form:** The Present Perfect is formed using *have/has + past participle* of the verb.
+*   **Examples:**
+
+    *   "I **have seen** that film." (The exact time I saw it doesn't matter; the important thing is that I have the experience of having seen it. It's 
+relevant to the present because I might be able to discuss it.)
+    *   "She **has lived** in Paris *for five years*." (She still lives in Paris. The period of living in Paris started in the past and continues to the 
+present.)
+    *   "They **have visited** Rome." (We don't know when they visited Rome; the focus is on the fact that they have the experience of having visited it.)
+    *   "He **has just finished** his homework." (The homework is finished very recently, and it is relevant to the present – perhaps he can now go out.)
+    *   "I **have lost** my keys!" (The action of losing the keys happened in the past, but it has a direct consequence in the present – I can't get into my 
+house.)
+    *   "**Have** you *ever* **been** to Japan?" (This refers to your life experience up to now)
+    *   "I **haven't seen** him *lately*." (Implies a period from the recent past up to now)
+
+**Key Differences Summarized**
+
+| Feature          | Past Simple                               | Present Perfect                                   |
+| ---------------- | ----------------------------------------- | ------------------------------------------------- |
+| **Time**         | Specific, finished time in the past         | Unspecified time, or period leading up to now     |
+| **Connection to Present** | No direct connection                        | Strong connection to the present                |
+| **Focus**        | The completed action itself               | Result or relevance of the action in the present |
+
+**In summary:**
+
+Use the **Past Simple** when you are talking about a specific, completed action in the past.
+
+Use the **Present Perfect** when you are talking about an action or state that has a connection to the present, either because it has a current result, or 
+because the time period isn't finished.
+
+
+🚀 Crew: crew
+└── 📋 Task: 8393dd11-532e-4adc-a537-5e5554995fb9
+    Assigned to: Profesor de Inglés
+    Status: ✅ Completed
+╭───────────────────────────────────────────────────────────────────── Task Completion ─────────────────────────────────────────────────────────────────────╮
+│                                                                                                                                                           │
+│  Task Completed                                                                                                                                           │
+│  Name: 8393dd11-532e-4adc-a537-5e5554995fb9                                                                                                               │
+│  Agent: Profesor de Inglés                                                                                                                                │
+│                                                                                                                                                           │
+│                                                                                                                                                           │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+# Agent: Evaluador de Inglés
+## Task: Crea un test de 3 preguntas basado en la explicación dada por el profesor y evalúa respuestas.
+
+
+# Agent: Evaluador de Inglés
+## Final Answer: 
+**Present Perfect vs. Past Simple Test**
+
+**Instructions:** Choose the correct tense (Present Perfect or Past Simple) to complete each sentence.
+
+**1. (Choose the correct option) I _______ (go) to Italy last year.**
+
+    a) have gone
+    b) went
+    c) have been
+
+**2. (Choose the correct option) She _______ (live) in London for five years, but she moved to Manchester last month.**
+
+    a) has lived
+    b) lived
+    c) lives
+
+**3. (Choose the correct option) _______ (you/ever/eat) sushi?**
+
+    a) Did you ever eat
+    b) Have you ever eaten
+    c) Do you ever eat
+
+**Answer Key:**
+
+**1. b) went**
+   *Explanation:* "Last year" is a specific time in the past, so we use the Past Simple.
+
+**2. b) lived**
+   *Explanation:* The key here is "last month". This indicates that the period of her living in London is finished, so Past Simple is correct.
+
+**3. b) Have you ever eaten**
+   *Explanation:* "Ever" is a keyword that indicates using the Present Perfect to talk about general life experiences.
+
+
+🚀 Crew: crew
+├── 📋 Task: 8393dd11-532e-4adc-a537-5e5554995fb9
+│   Assigned to: Profesor de Inglés
+│   Status: ✅ Completed
+└── 📋 Task: a42e2cec-a398-4f3a-9f68-e514f0e3a58a
+    Assigned to: Evaluador de Inglés
+    Status: ✅ Completed
+╭───────────────────────────────────────────────────────────────────── Task Completion ─────────────────────────────────────────────────────────────────────╮
+│                                                                                                                                                           │
+│  Task Completed                                                                                                                                           │
+│  Name: a42e2cec-a398-4f3a-9f68-e514f0e3a58a                                                                                                               │
+│  Agent: Evaluador de Inglés                                                                                                                               │
+│                                                                                                                                                           │
+│                                                                                                                                                           │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────────────────────────── Crew Completion ─────────────────────────────────────────────────────────────────────╮
+│                                                                                                                                                           │
+│  Crew Execution Completed                                                                                                                                 │
+│  Name: crew                                                                                                                                               │
+│  ID: ae8003a5-b2cd-46dc-bb1b-a2cba86d0e29                                                                                                                 │
+│                                                                                                                                                           │
+│                                                                                                                                                           │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+**Present Perfect vs. Past Simple Test**
+
+**Instructions:** Choose the correct tense (Present Perfect or Past Simple) to complete each sentence.
+
+**1. (Choose the correct option) I _______ (go) to Italy last year.**
+
+    a) have gone
+    b) went
+    c) have been
+
+**2. (Choose the correct option) She _______ (live) in London for five years, but she moved to Manchester last month.**
+
+    a) has lived
+    b) lived
+    c) lives
+
+**3. (Choose the correct option) _______ (you/ever/eat) sushi?**
+
+    a) Did you ever eat
+    b) Have you ever eaten
+    c) Do you ever eat
+
+**Answer Key:**
+
+**1. b) went**
+   *Explanation:* "Last year" is a specific time in the past, so we use the Past Simple.
+
+**2. b) lived**
+   *Explanation:* The key here is "last month". This indicates that the period of her living in London is finished, so Past Simple is correct.
+
+**3. b) Have you ever eaten**
+   *Explanation:* "Ever" is a keyword that indicates using the Present Perfect to talk about general life experiences.
