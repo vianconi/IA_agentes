@@ -1,0 +1,172 @@
+╭───────────────────────────────────────────────────────────────── Crew Execution Started ──────────────────────────────────────────────────────────────────╮
+│                                                                                                                                                           │
+│  Crew Execution Started                                                                                                                                   │
+│  Name: crew                                                                                                                                               │
+│  ID: b0be2000-aa2b-4218-9b2c-41e1c1bf8f06                                                                                                                 │
+│                                                                                                                                                           │
+│                                                                                                                                                           │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+# Agent: Profesor de Inglés
+## Task: Explica la diferencia entre los tiempos verbales 'Present Perfect' y 'Past Simple' con ejemplos.
+
+
+# Agent: Profesor de Inglés
+## Final Answer: 
+The **Past Simple** and the **Present Perfect** are both past tenses in English, but they are used in different situations. The key difference lies in their 
+relationship to the present.
+
+**Past Simple**
+
+*   **Use:** The Past Simple is used for actions that started and finished in the past. The time of the action is usually stated or implied. It's a completed
+action with no connection to the present.
+*   **Time Frame:**  The time is definite, known, or understood.
+*   **Keywords:** *yesterday, last week, last year, ago, in 2005, when I was a child, etc.*
+*   **Structure:**  Subject + Verb (past form)
+
+    *   Regular verbs: add -ed (e.g., *walked, played, watched*)
+    *   Irregular verbs: have different forms (e.g., *went, saw, ate*)
+*   **Examples:**
+    *   "I **visited** Paris last summer." (Specific time: last summer)
+    *   "She **watched** a movie yesterday." (Specific time: yesterday)
+    *   "They **bought** a new car in 2020." (Specific time: 2020)
+    *   "He **lived** in London for five years." (Finished action in the past. He doesn't live there now.)
+    *   "When I was a child, I **played** soccer every day."
+
+**Present Perfect**
+
+*   **Use:** The Present Perfect is used for actions that started in the past and have a connection to the present. This connection can be:
+    *   A past action that has a result now.
+    *   An action that happened at an unspecified time in the past.
+    *   An action that started in the past and is still continuing.
+*   **Time Frame:** The time is indefinite or not important.  The focus is on the experience or result.
+*   **Keywords:** *ever, never, already, yet, just, recently, since, for, so far, up to now, this week/month/year (when the period is not finished)*
+*   **Structure:** Subject + have/has + Verb (past participle)
+
+    *   Past participle of regular verbs: usually the same as the past form (-ed)
+    *   Past participle of irregular verbs: varies (e.g., *gone, seen, eaten*)
+*   **Examples:**
+    *   "I **have visited** Paris." (Unspecified time. The experience of visiting Paris is important).
+    *   "She **has broken** her leg." (The result is important: she can't walk now).
+    *   "They **have lived** here since 2010." (The action started in the past and continues to the present).
+    *   "He **has never eaten** sushi." (Experience up to now).
+    *   "Have you **seen** that movie yet?" (Asking about an experience).
+    *   "I **have just finished** my homework." (Action completed recently and relevant now).
+
+**Here's a table summarizing the differences:**
+
+| Feature          | Past Simple                                       | Present Perfect                                             |
+|-------------------|---------------------------------------------------|-------------------------------------------------------------|
+| **Time**          | Specific, definite, finished                      | Unspecified, indefinite, connection to the present          |
+| **Focus**         | Completed action in the past                      | Result or relevance of past action now                     |
+| **Connection to Present** | No connection                               | Strong connection                                           |
+| **Keywords**      | *yesterday, last week, ago, in [year]*          | *ever, never, yet, since, for, just, already, recently*   |
+| **Example**        | I *saw* a movie yesterday.                     | I *have seen* that movie.                               |
+
+**In short:**
+
+*   Use the **Past Simple** when you are talking about a finished action at a specific time in the past.
+*   Use the **Present Perfect** when you are talking about a past action that is connected to the present, either through its result, its relevance, or its 
+continuation.
+
+
+🚀 Crew: crew
+└── 📋 Task: de2f95cd-c155-4325-9495-b6f1f34bf0d2
+    Assigned to: Profesor de Inglés
+    Status: ✅ Completed
+╭───────────────────────────────────────────────────────────────────── Task Completion ─────────────────────────────────────────────────────────────────────╮
+│                                                                                                                                                           │
+│  Task Completed                                                                                                                                           │
+│  Name: de2f95cd-c155-4325-9495-b6f1f34bf0d2                                                                                                               │
+│  Agent: Profesor de Inglés                                                                                                                                │
+│                                                                                                                                                           │
+│                                                                                                                                                           │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+# Agent: Evaluador de Inglés
+## Task: Crea un test de 3 preguntas basado en la explicación dada por el profesor y evalúa respuestas.
+
+
+# Agent: Evaluador de Inglés
+## Final Answer: 
+**Present Perfect vs. Past Simple Test**
+
+**Instructions:** Choose the correct tense (Past Simple or Present Perfect) to complete each sentence.
+
+**1.  __________________ (you/ever/be) to Japan?**
+
+    a) Have you ever been
+    b) Did you ever go
+    c) Were you ever
+
+**2. I __________________ (visit) my grandparents last weekend.**
+
+    a) have visited
+    b) visited
+    c) have been visiting
+
+**3. She __________________ (live) in London since 2015.**
+
+    a) lived
+    b) has lived
+    c) was living
+
+**Answer Key:**
+
+1.  **a) Have you ever been** (Present Perfect – asking about a life experience)
+2.  **b) visited** (Past Simple – specific time: last weekend)
+3.  **b) has lived** (Present Perfect – action started in the past and continues to the present)
+
+
+🚀 Crew: crew
+├── 📋 Task: de2f95cd-c155-4325-9495-b6f1f34bf0d2
+│   Assigned to: Profesor de Inglés
+│   Status: ✅ Completed
+└── 📋 Task: d81486ef-e3a9-4d4b-89b3-b7ef4237a7c7
+    Assigned to: Evaluador de Inglés
+    Status: ✅ Completed
+╭───────────────────────────────────────────────────────────────────── Task Completion ─────────────────────────────────────────────────────────────────────╮
+│                                                                                                                                                           │
+│  Task Completed                                                                                                                                           │
+│  Name: d81486ef-e3a9-4d4b-89b3-b7ef4237a7c7                                                                                                               │
+│  Agent: Evaluador de Inglés                                                                                                                               │
+│                                                                                                                                                           │
+│                                                                                                                                                           │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+╭───────────────────────────────────────────────────────────────────── Crew Completion ─────────────────────────────────────────────────────────────────────╮
+│                                                                                                                                                           │
+│  Crew Execution Completed                                                                                                                                 │
+│  Name: crew                                                                                                                                               │
+│  ID: b0be2000-aa2b-4218-9b2c-41e1c1bf8f06                                                                                                                 │
+│                                                                                                                                                           │
+│                                                                                                                                                           │
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+**Present Perfect vs. Past Simple Test**
+
+**Instructions:** Choose the correct tense (Past Simple or Present Perfect) to complete each sentence.
+
+**1.  __________________ (you/ever/be) to Japan?**
+
+    a) Have you ever been
+    b) Did you ever go
+    c) Were you ever
+
+**2. I __________________ (visit) my grandparents last weekend.**
+
+    a) have visited
+    b) visited
+    c) have been visiting
+
+**3. She __________________ (live) in London since 2015.**
+
+    a) lived
+    b) has lived
+    c) was living
+
+**Answer Key:**
+
+1.  **a) Have you ever been** (Present Perfect – asking about a life experience)
+2.  **b) visited** (Past Simple – specific time: last weekend)
+3.  **b) has lived** (Present Perfect – action started in the past and continues to the present)

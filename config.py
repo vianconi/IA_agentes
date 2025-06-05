@@ -1,4 +1,4 @@
-from google import generativeai
+import google.generativeai as genai
 from dotenv import load_dotenv
 import os
 
@@ -15,4 +15,4 @@ else:
     print("Error: No se encontró GEMINI_API_KEY en el archivo .env")
 
 # Configurar la API key para Google GenerativeAI si es necesario
-gemini_api_key = generativeai.configure(api_key=GEMINI_API_KEY)
+gemini_api_key = genai.configure(api_key=GEMINI_API_KEY)
